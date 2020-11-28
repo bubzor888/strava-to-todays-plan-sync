@@ -1,0 +1,1 @@
+# strava-to-todays-plan-sync
